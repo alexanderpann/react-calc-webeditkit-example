@@ -21,7 +21,7 @@ We will be using the version of WebEditKit released on NPM, instead of building 
 1. clone the repo (https://github.com/Strumenta/calc-webeditkit-example)
 2. if you had cloned before run a git pull and clean everything (git clean -fdX)
 3. execute `npm install` or `yarn`
-4. execute `npm run` or `yarn run`
+4. execute `npm start` or `yarn start`
 5. the browser opens automatically#
 6. edit the name of the calculations
 7. reload the page
